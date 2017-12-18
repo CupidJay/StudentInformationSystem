@@ -30,9 +30,9 @@
 
 #### 程序主界面
 
-<div align=center><img width="150" height="150" src="https://github.com/CupidJay/hello-world/blob/master/main.png"/></div>
+<img width="600" height="600" src="https://github.com/CupidJay/hello-world/blob/master/main.png"/>
 
-<div align=center><img width="150" height="150" src="https://github.com/CupidJay/hello-world/blob/master/main2.png"/></div>
+<img width="600" height="600" src="https://github.com/CupidJay/hello-world/blob/master/main2.png"/>
 
 
 #### 程序工具栏
