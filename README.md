@@ -17,30 +17,22 @@
 
 1. 安装Qt Creator。[[下载地址]](https://www1.qt.io/download/)
 
-   ​
-
 2. 获取源码
 
    ```Bash
    git clone https://github.com/CupidJay/StudentInformationSystem.git
    ```
-
-
-
+   
 3. 用Qt Creator打开management.pro文件即可
 
-   ​
 
 ## 程序功能
 
 #### 程序主界面
 
-![](https://github.com/CupidJay/hello-world/blob/master/main.png)
+<div align=center><img width="150" height="150" src="https://github.com/CupidJay/hello-world/blob/master/main.png"/></div>
 
-
-
-![](https://github.com/CupidJay/hello-world/blob/master/main2.png)
-
+<div align=center><img width="150" height="150" src="https://github.com/CupidJay/hello-world/blob/master/main2.png"/></div>
 
 
 #### 程序工具栏
@@ -51,7 +43,6 @@
 - 删除按钮，删除一个学生信息，删除前会弹出警示框以防误删。
 - 编辑按钮，弹出对话框实现学生信息的修改，此外双击学生所在行也可以实现修改。
 - 排序按钮，弹出对话框选择排序方式进行学生信息排序。
-
 
 
 #### 程序菜单栏
