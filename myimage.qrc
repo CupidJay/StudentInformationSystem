@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/myImage">
+        <file>images/add.png</file>
+        <file>images/delete.png</file>
+        <file>images/hint.png</file>
+        <file>images/female.png</file>
+        <file>images/male.png</file>
+        <file>images/success.png</file>
+        <file>images/edit.png</file>
+        <file>images/sort.png</file>
+        <file>images/file_new.png</file>
+        <file>images/file_open.png</file>
+        <file>images/file_save.png</file>
+        <file>images/menu_add.png</file>
+        <file>images/menu_delete.png</file>
+        <file>images/menu_edit.png</file>
+        <file>images/menu_sort.png</file>
+        <file>images/about.png</file>
+        <file>images/window.png</file>
+    </qresource>
+</RCC>
